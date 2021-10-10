@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Карточка студента</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="middle_name">Middle name</string>
+    <string name="group">Group</string>
+    <string name="faculty">Faculty</string>
+    <string name="save">SAVE</string>
+    <string name="error">Неверный ввод!</string>
+    <string-array name="faculties">
+        <item>ФИТиУ</item>
+        <item>ФКП</item>
+        <item>ФРЭ</item>
+        <item>ФКСиС</item>
+        <item>ФИК</item>
+        <item>ИЭФ</item>
+        <item>ВФ</item>
+    </string-array>
+</resources>
